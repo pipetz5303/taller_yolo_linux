@@ -1,4 +1,4 @@
-# Taller TOLO imagenes distribuciones Linux
+# Taller YOLO imagenes distribuciones Linux
 
 Desarrollado por Felipe Castellanos Sánchez, codigo 1030576147
 
