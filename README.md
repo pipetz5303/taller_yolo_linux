@@ -11,7 +11,7 @@ Virtual env -p Python 3 env
 
 ![img](https://github.com/pipetz5303/taller_yolo_linux/blob/main/02.png)
 
-3- Se intalan las librerias
+3- Se instalan las librerias
 pip install ultralytics opencv-python matplotlib
 
 ![img](https://github.com/pipetz5303/taller_yolo_linux/blob/main/03.png)
