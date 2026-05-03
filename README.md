@@ -1,6 +1,7 @@
 # Taller YOLO imagenes distribuciones Linux
 
 Desarrollado por Felipe Castellanos Sánchez, codigo 1030576147
+Link video: https://youtu.be/J1HXWl6cylQ
 
 1- Creación del entorno virtual. Vamos a VS Code y en new terminal se corre el script:
 Virtual env -p Python 3 env
